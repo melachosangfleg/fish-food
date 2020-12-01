@@ -1,5 +1,5 @@
 local name = "arkade"
-local version = "0.6.22"
+local version = "0.6.25"
 
 food = {
     name = name,
